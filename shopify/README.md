@@ -1,7 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Link is given here -> https://shopify-cy4p5iqc7-sanga-byte29.vercel.app
+
+<br>Link is given here -> https://shopify-cy4p5iqc7-sanga-byte29.vercel.app</br>
 
 ## Available Scripts
 
